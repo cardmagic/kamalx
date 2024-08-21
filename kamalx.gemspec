@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = 'kamalx'
-  spec.version       = '1.0.1'
+  spec.version       = '1.0.2'
   spec.authors       = ['Lucas Carlson']
   spec.email         = ['lucas@carlson.net']
 
-  spec.summary       = 'A wrapper for the kamal Docker deployment tool from Basecamp/37signals to make it easier to watch and understand the deployment process.'
-  spec.description   = 'kamalx makes the kamal deploy tool more user-friendly and easier to watch and understand.'
+  spec.summary       = 'A wrapper for the Kamal Docker deployment tool from Basecamp to make it prettier'
+  spec.description   = 'kamalx wraps the kamal deploy tool to make it more user-friendly and easier to watch and understand'
   spec.homepage      = 'https://github.com/cardmagic/kamalx'
   spec.license       = 'MIT'
 
