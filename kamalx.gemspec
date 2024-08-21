@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'A command-line tool for parsing logs.'
   spec.description   = 'kamalx makes the kamal deploy tool more user-friendly and easier to watch and understand.'
-  spec.homepage      = 'https://example.com/kamal-sleek'
+  spec.homepage      = 'https://github.com/cardmagic/kamalx'
   spec.license       = 'MIT'
 
-  spec.files         = Dir['bin/**/*', 'lib/**/*', 'Gemfile', 'LICENSE', 'README.md']
+  spec.files         = Dir['bin/**/*', 'lib/**/*', 'Gemfile', 'LICENSE.md', 'README.md']
   spec.bindir        = 'bin'
   spec.executables   = ['kamalx']
   spec.require_paths = ['lib']
