@@ -1,0 +1,21 @@
+{
+  "languages": [
+    {
+      "name": "Ruby",
+      "primary": true,
+      "directory": "lib",
+      "extension": ".rb"
+    }
+  ],
+  "frameworks": [],
+  "testingFrameworks": [{
+    "name": "RSpec",
+    "type": "Testing framework",
+    "directory": "spec"
+  }],
+  "buildTools": [],
+  "packageManager": "Bundler",
+  "linters": [],
+  "projectType": "Command-line tool",
+  "databases": []
+}

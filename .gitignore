@@ -1,0 +1,34 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore gem build artifacts
+*.gem
+
+# Ignore Gemfile.lock for gem development
+Gemfile.lock
+
+# Ignore RSpec examples file
+/spec/examples.txt
+
+# Ignore Ruby LSP files
+/.ruby-lsp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore Ruby version manager files
+.ruby-version
+.ruby-gemset
+
+# Ignore environment variables file
+.env
